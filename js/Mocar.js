@@ -20,9 +20,8 @@
   AOS.init();
 
   
-
-
- setTimeout(function() {
-  lader.remove();
-
-}, 200);
+(function lod() {
+    window.onload = function() {
+      lader.remove();
+    }
+})();

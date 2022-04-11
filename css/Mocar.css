@@ -332,7 +332,9 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+  
+  background: url('../images/home.jpg') no-repeat;
+  
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -356,7 +358,9 @@ a:hover, a:active, a:focus {
 
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+  
+    background: url('../images/about.jpg') no-repeat;
+    
 }
 
 #about .about-thumb,
@@ -407,7 +411,9 @@ a:hover, a:active, a:focus {
 
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  
+  background: url('../images/experience.jpg') no-repeat;
+  
 }
 
 #experience .media-heading {
@@ -429,8 +435,9 @@ a:hover, a:active, a:focus {
   background: #E3AE57;
 }
 
-#education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+#education .education-img { 
+  background: url('../images/education.jpg') no-repeat;
+  
 }
 
 #education .media-heading {
@@ -450,7 +457,9 @@ a:hover, a:active, a:focus {
 
 
 #quotes {
-    background: url('../images/quotes-bg.jpg') 50% 0 repeat-y fixed;
+  
+    background: url('../images/quotes.jpg') 50% 0 repeat-y fixed;
+    
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -490,7 +499,9 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+  
+  background: url('../images/contact.jpg') no-repeat;
+  
   min-height: 75vh;
 }
 
